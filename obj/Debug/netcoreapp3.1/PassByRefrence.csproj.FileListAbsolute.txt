@@ -1,0 +1,14 @@
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\bin\Debug\netcoreapp3.1\PassByRefrence.exe
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\bin\Debug\netcoreapp3.1\PassByRefrence.deps.json
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\bin\Debug\netcoreapp3.1\PassByRefrence.runtimeconfig.json
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\bin\Debug\netcoreapp3.1\PassByRefrence.runtimeconfig.dev.json
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\bin\Debug\netcoreapp3.1\PassByRefrence.dll
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\bin\Debug\netcoreapp3.1\PassByRefrence.pdb
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.csproj.AssemblyReference.cache
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.GeneratedMSBuildEditorConfig.editorconfig
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.AssemblyInfoInputs.cache
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.AssemblyInfo.cs
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.csproj.CoreCompileInputs.cache
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.dll
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.pdb
+D:\week1\Calculator\SimpleCalculator\PassByRefrence\obj\Debug\netcoreapp3.1\PassByRefrence.genruntimeconfig.cache
